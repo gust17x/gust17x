@@ -6,6 +6,8 @@
   <img align="right" height="160em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=gust17x&layout=compact&langs_count=16&theme=great-gatsby"/>
 </div>
 <br>
+
+![Snake animation](https://github.com/gust17x/LuigiGF/blob/output/github-contribution-grid-snake.svg)
     
 
 
